@@ -1,4 +1,6 @@
 # 🛡️ Shield Insurance Analytics Dashboard
+-----------------------------------------------------------------------
+# 🔗 Live Dashboard Link: 
 
 # 📊 Project Overview
 
@@ -34,7 +36,6 @@ actionable recommendations.
 - Business Impact
 - Challenges
 - Learnings
-- Repository Structure
 - Tech Stack
 - Future Improvements
 
@@ -256,7 +257,7 @@ The dashboard enables stakeholders to:
 - Dashboard Storytelling
 - Business Analytics
 - Interactive Reporting
-- Power BI Best Practices
+- Power BI Report feature Implementation and Best Practices
 
 # 🛠️ Tech Stack
 
@@ -271,8 +272,9 @@ The dashboard enables stakeholders to:
 
 - Row-Level Security
 - Mobile Layout
+- Paginated Report
 - Forecasting
-- AI Visuals
+- AI Custom Visuals
 - Incremental Refresh
 - Power BI Service Alerts
 
