@@ -3,7 +3,7 @@
 
 # 🔗 Live Dashboard
 
-👉 **[View Interactive Dashboard]**(https://app.powerbi.com/view?r=eyJrIjoiYTZhNzhkZjEtMTkyYi00ODQ1LTg4NjctYTVmMGYxNDM4NGNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+👉 **[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTZhNzhkZjEtMTkyYi00ODQ1LTg4NjctYTVmMGYxNDM4NGNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
 -----------------------------------------------------------------------
 
