@@ -1,10 +1,9 @@
 # 🛡️ Shield Insurance Analytics Dashboard
-------------------------------------------------------------------------
 
 # 📊 Project Overview
 
 Shield Insurance is a fictional insurance company used in the Codebasics
-Data Analytics Virtual Internship. This project demonstrates an
+Data Analytics Internship. This project demonstrates an
 end-to-end Business Intelligence solution built in **Power BI**,
 transforming raw insurance data into an interactive dashboard that
 enables stakeholders to monitor customer growth, revenue trends, policy
@@ -38,8 +37,6 @@ actionable recommendations.
 -   Repository Structure
 -   Tech Stack
 -   Future Improvements
--   Resources & Links
--   Contact
 
 ------------------------------------------------------------------------
 
@@ -197,8 +194,8 @@ distribution - Policy preference
 -   Expand successful Delhi NCR initiatives.
 -   Increase investment in digital channels.
 -   Launch targeted campaigns for the 31--40 demographic.
--   Strengthen offline agent enablement.
 -   Optimize policy offerings using customer behavior.
+-   Improve Insurance Agent Incentives to drive more customer through offline channel.
 -   Improve claim forecasting with settlement analytics.
 
 # 📈 Business Impact
@@ -261,28 +258,6 @@ Shield-Insurance/
 -   AI Visuals
 -   Incremental Refresh
 -   Power BI Service Alerts
-
-# 🔗 Resources
-
-Live Dashboard: **TODO**
-
-LinkedIn Post: **TODO**
-
-Presentation: **TODO**
-
-Portfolio: **TODO**
-
-YouTube Video: **TODO**
-
-# 📬 Contact
-
-LinkedIn: **TODO**
-
-Portfolio: **TODO**
-
-Email: **TODO**
-
-GitHub: **TODO**
 
 ------------------------------------------------------------------------
 
