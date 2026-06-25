@@ -155,14 +155,15 @@ distribution - Policy preference
 # 📌 Key KPIs
 
 KPI Description
---------------------- -------------------------
-Total Revenue Total Premium Collected
-Total Customers Total Customers
-DRG Daily Revenue Growth
-DCG Daily Customer Growth
+----------------------------------------------
+Total Revenue
+Total Customers
+DRG - Daily Revenue Growth
+DCG - Daily Customer Growth
 Revenue Growth % Month-over-Month
 Customer Growth % Month-over-Month
-Expected Settlement Estimated Claim Value
+Expected Settlement
+Estimated Claim Value
 
 # ❓ Business Questions Answered
 
@@ -177,24 +178,54 @@ Expected Settlement Estimated Claim Value
 
 # 💡 Key Insights
 
-- March recorded the strongest overall performance.
-- Delhi NCR contributed the highest revenue and customer base.
-- Customers aged 31--40 generated the highest revenue.
-- Offline Agents remained the dominant acquisition channel.
-- Online channels showed gradual growth.
-- POL4321HEL attracted the largest customer base.
-- POL2005HEL generated the highest premium revenue.
-- Settlement values were highest among customers aged 31--40.
+- **Customer Base:** Shield Insurance serves a total of **26,841 customers**, reflecting a strong and diverse customer portfolio.
+
+- **Revenue Performance:** The company generated an overall revenue of **₹989.3 Million**, demonstrating healthy premium collections during the analysis period.
+
+- **Top Performing City:** **Delhi NCR** emerged as the leading market, contributing **11,007 customers** and generating **₹401.6 Million** in revenue, making it the highest-performing city across all regions.
+
+- **Highest Revenue Age Group:** Customers aged **31–40 years** formed the largest customer segment with **11,455 customers**, contributing approximately **₹356 Million** in premium revenue. This indicates that working professionals represent the company's most valuable customer segment.
+
+- **Monthly Growth Trends:** **March 2023** recorded the strongest business performance, achieving approximately **85% growth in revenue** and **82% growth in customer acquisition** compared to previous months. However, **April 2023** experienced a notable decline of **41.7% in revenue** and **41.4% in customer acquisition**, highlighting the need to investigate seasonal demand fluctuations.
+
+- **Sales Channel Performance:** The **Offline Agent** channel remained the primary contributor, accounting for **55.6% of total revenue** and **55.4% of total customers**, while online channels showed gradual adoption and future growth potential.
+
+- **Revenue Distribution Across Sales Modes:** Revenue contribution across different sales channels remained relatively balanced, ranging between **12.6% and 16.3%**, indicating a well-diversified sales ecosystem.
+
+- **Most Popular Insurance Policy:** **Policy ID – POL4321HEL** attracted the highest customer base with **4,434 policyholders**, making it the company's most preferred insurance product.
+
+- **Highest Revenue Generating Policy:** **Policy ID – POL2005HEL** generated approximately **₹324.3 Million** in premium revenue, making it the highest revenue-contributing policy in the portfolio.
+
+- **Expected Settlement Analysis:** The **31–40 years** age group also recorded the highest expected settlement value, suggesting a combination of high policy adoption and significant claim exposure within this demographic.
 
 # 🚀 Recommendations
 
-- Replicate March marketing strategies.
-- Expand successful Delhi NCR initiatives.
-- Increase investment in digital channels.
-- Launch targeted campaigns for the 31--40 demographic.
-- Optimize policy offerings using customer behavior.
-- Improve Insurance Agent Incentives to drive more customer through offline channel.
-- Improve claim forecasting with settlement analytics.
+1. **Replicate High-Performing Strategies**
+   - Analyze the factors behind **March 2023's 85% revenue growth** and replicate successful campaigns, promotions, or customer acquisition strategies during other months.
+
+2. **Strengthen Presence in Delhi NCR**
+   - Since **Delhi NCR contributes over ₹401.6 Million in revenue**, continue investing in localized marketing, partnerships, and customer engagement initiatives while replicating successful strategies in other metropolitan cities.
+
+3. **Target the 31–40 Age Segment**
+   - The **31–40 age group contributes over ₹356 Million in revenue** and represents the largest customer segment. Introduce personalized insurance products, loyalty benefits, and cross-selling opportunities to maximize customer lifetime value.
+
+4. **Accelerate Digital Sales Channels**
+   - Although Offline Agents contribute more than **55% of total revenue**, the gradual growth of online channels indicates strong future potential. Improving the mobile application, website experience, and digital marketing campaigns can significantly increase online customer acquisition.
+
+5. **Empower Offline Agents**
+   - Since Offline Agents remain the company's strongest sales channel, invest in continuous training, performance incentives, and digital support tools to sustain their contribution while improving operational efficiency.
+
+6. **Promote High-Performing Policies**
+   - Expand marketing efforts around **POL4321HEL** and analyze the success factors behind **POL2005HEL**, using these insights to improve other insurance products and increase overall premium revenue.
+
+7. **Improve Claim & Settlement Planning**
+   - As customers aged **31–40 years** have the highest expected settlement value, implementing predictive risk assessment and optimized claim management strategies can improve profitability while maintaining customer satisfaction.
+
+8. **Leverage Data-Driven Personalization**
+   - Utilize customer demographics, purchasing behavior, and policy preferences to recommend relevant insurance products, improve retention, and increase cross-selling and upselling opportunities.
+
+9. **Monitor Seasonal Performance**
+   - Investigate the sharp **41.7% revenue decline observed in April** to identify seasonal trends and introduce proactive campaigns that stabilize revenue throughout the year.
 
 # 📈 Business Impact
 
