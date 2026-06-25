@@ -72,9 +72,7 @@ operational data into actionable business insights.
 
 # 📂 Dataset
 
-Source: Codebasics Virtual Internship
-
-Tables: - dim_customer - dim_date - dim_policies - fact_premiums -
+Tables provided: - dim_customer - dim_date - dim_policies - fact_premiums -
 fact_settlements
 
 # 🧹 Data Cleaning & Transformation
