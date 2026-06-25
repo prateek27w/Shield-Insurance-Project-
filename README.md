@@ -229,18 +229,6 @@ The dashboard enables stakeholders to:
 -   Interactive Reporting
 -   Power BI Best Practices
 
-# 📁 Repository Structure
-
-``` text
-Shield-Insurance/
-│
-├── Assets/
-├── Dashboard/
-├── Dataset/
-├── Presentation/
-├── README.md
-```
-
 # 🛠️ Tech Stack
 
 -   Microsoft Power BI
