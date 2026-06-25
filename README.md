@@ -1,15 +1,11 @@
 # 🛡️ Shield Insurance Analytics Dashboard
 -----------------------------------------------------------------------
 
-# 🔗 Live Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMTdmZjZhNGEtNmJjMS00NzE1LTk5MmEtNmYyNDBlZWIwZDAzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+# 🔗 Live Dashboard
+
+👉 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTdmZjZhNGEtNmJjMS00NzE1LTk5MmEtNmYyNDBlZWIwZDAzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 -----------------------------------------------------------------------
-
-### 📊 Live Dashboard
-
-👉 [View Interactive Dashboard](https://app.powerbi.com/view?r=YOUR_LINK)
-
-----
 
 # 📊 Project Overview
 
