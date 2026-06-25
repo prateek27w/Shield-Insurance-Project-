@@ -1,57 +1,252 @@
 # 🛡️ Shield Insurance Analytics Dashboard
 
-## 📊 Executive Snapshot
+# 📊 Project Overview
 
-  KPI                                                           Value
-  ----------------------------- -------------------------------------
-  💰 Total Revenue                                 **₹989.3 Million**
-  👥 Total Customers                                       **26,841**
-  🏙️ Top Performing City                                **Delhi NCR**
-  🎯 Best Performing Policy          **POL4321HEL (4,434 Customers)**
-  💎 Highest Revenue Policy           **POL2005HEL (₹324.3 Million)**
-  👨‍👩‍👧 Largest Customer Segment     **31--40 Years (11,455 Customers)**
-  📈 Peak Revenue Month                                **March 2023**
-  🤝 Dominant Sales Channel         **Offline Agent (55.6% Revenue)**
+Shield Insurance is a fictional insurance company used in the Codebasics
+Data Analytics Internship. This project demonstrates an
+end-to-end Business Intelligence solution built in **Power BI**,
+transforming raw insurance data into an interactive dashboard that
+enables stakeholders to monitor customer growth, revenue trends, policy
+performance, sales channels, and demographic insights.
+
+Unlike a basic dashboard showcase, this repository is structured as a
+business case study---from understanding the problem to delivering
+actionable recommendations.
 
 ------------------------------------------------------------------------
 
-## Quantified Business Insights
+# 📑 Table of Contents
 
-  Insight                                                     Value
-  ------------------------------ ----------------------------------
-  Revenue Generated                              **₹989.3 Million**
-  Customer Base                                **26,841 Customers**
-  Delhi NCR Revenue                              **₹401.6 Million**
-  Delhi NCR Customers                                    **11,007**
-  Customers aged 31--40                                  **11,455**
-  Revenue from 31--40                              **₹356 Million**
-  Offline Agent Revenue Share                             **55.6%**
-  Offline Agent Customer Share                            **55.4%**
-  March Revenue Growth                                     **≈85%**
-  March Customer Growth                                    **≈82%**
-  April Revenue Decline                                   **41.7%**
-  April Customer Decline                                  **41.4%**
-  Most Popular Policy              **POL4321HEL (4,434 Customers)**
-  Highest Revenue Policy            **POL2005HEL (₹324.3 Million)**
+- About the Company
+- Business Problem
+- Objectives
+- Dataset
+- Data Model
+- Data Cleaning & Transformation
+- Data Modeling
+- DAX Measures
+- Dashboard Features
+- Dashboard Walkthrough
+- KPIs
+- Business Questions Answered
+- Key Insights
+- Recommendations
+- Business Impact
+- Challenges
+- Learnings
+- Repository Structure
+- Tech Stack
+- Future Improvements
 
-## Dashboard Images
+------------------------------------------------------------------------
 
-**TODO:** Home Dashboard
+# 🏢 About Shield Insurance
 
-**TODO:** Overview Dashboard
+Shield Insurance provides comprehensive insurance plans for individuals
+and businesses. The company wanted a Proof of Concept dashboard to
+evaluate how interactive analytics could support better strategic
+decisions before investing in a larger BI implementation.
 
-**TODO:** Sales Dashboard
+# 🎯 Business Problem
 
-**TODO:** Age Dashboard
+Management lacked a centralized reporting solution to monitor revenue,
+customer acquisition, policy performance, sales modes, and settlements.
+Static reports made it difficult to identify trends, compare regions, or
+evaluate customer demographics.
 
-## Resources
+The goal was to design an interactive Power BI dashboard that converts
+operational data into actionable business insights.
 
-Live Dashboard: **TODO**
+# ✅ Project Objectives
 
-LinkedIn: **TODO**
+- Monitor Total Revenue and Total Customers
+- Track Daily Revenue Growth (DRG)
+- Track Daily Customer Growth (DCG)
+- Analyze Month-over-Month performance
+- Evaluate sales channels
+- Analyze age groups
+- Compare city performance
+- Study policy popularity
+- Estimate settlements
+- Provide actionable recommendations
 
-Presentation: **TODO**
+# 📂 Dataset
 
-Portfolio: **TODO**
+Tables provided: - dim_customer - dim_date - dim_policies - fact_premiums -
+fact_settlements
 
-YouTube: **TODO**
+# 🧹 Data Cleaning & Transformation
+
+- Removed unnecessary columns
+- Corrected data types
+- Split sales mode fields
+- Created Age and Age Group columns
+- Created calendar attributes
+- Cleaned missing values
+- Built Power Query transformations
+
+# ⭐ Data Model
+
+> **TODO:** Insert Data Model image here.
+
+# 🧮 Important DAX Measures
+
+- Total Revenue
+- Total Customers
+- DRG
+- DCG
+- Previous Month Revenue
+- Previous Month Customers
+- Revenue Growth %
+- Customer Growth %
+- Expected Settlement
+- Revenue %
+- Customer %
+
+# ✨ Dashboard Features
+
+- Interactive slicers
+- Dynamic KPI cards
+- Navigation buttons
+- Tooltips
+- Cross-filtering
+- Bookmarks
+- Dynamic visuals
+- Drill interactions
+- Professional theme
+- Responsive layout
+
+# 🖥️ Dashboard Walkthrough
+
+## 🏠 Home Page
+
+**TODO:** Insert Home Dashboard Screenshot
+
+Description: Landing page providing navigation to all analytical
+sections.
+
+------------------------------------------------------------------------
+
+## 📊 Overview Dashboard
+
+**TODO:** Insert Overview Screenshot
+
+Highlights: - Revenue - Customers - DRG - DCG - City analysis - Monthly
+trends
+
+------------------------------------------------------------------------
+
+## 📈 Sales Mode Dashboard
+
+**TODO:** Insert Sales Dashboard Screenshot
+
+Highlights: - Offline vs Online - Revenue contribution - Customer
+contribution - Monthly trend
+
+------------------------------------------------------------------------
+
+## 👥 Age Group Dashboard
+
+**TODO:** Insert Age Dashboard Screenshot
+
+Highlights: - Settlement analysis - Revenue by age - Customer
+distribution - Policy preference
+
+# 📌 Key KPIs
+
+KPI Description
+--------------------- -------------------------
+Total Revenue Total Premium Collected
+Total Customers Total Customers
+DRG Daily Revenue Growth
+DCG Daily Customer Growth
+Revenue Growth % Month-over-Month
+Customer Growth % Month-over-Month
+Expected Settlement Estimated Claim Value
+
+# ❓ Business Questions Answered
+
+- Which city generated the highest revenue?
+- Which city acquired the highest customers?
+- Which policy is most popular?
+- Which policy generated maximum revenue?
+- Which month recorded peak performance?
+- Which sales channel performs best?
+- Which age group contributes the most?
+- Which age group has highest settlement?
+
+# 💡 Key Insights
+
+- March recorded the strongest overall performance.
+- Delhi NCR contributed the highest revenue and customer base.
+- Customers aged 31--40 generated the highest revenue.
+- Offline Agents remained the dominant acquisition channel.
+- Online channels showed gradual growth.
+- POL4321HEL attracted the largest customer base.
+- POL2005HEL generated the highest premium revenue.
+- Settlement values were highest among customers aged 31--40.
+
+# 🚀 Recommendations
+
+- Replicate March marketing strategies.
+- Expand successful Delhi NCR initiatives.
+- Increase investment in digital channels.
+- Launch targeted campaigns for the 31--40 demographic.
+- Optimize policy offerings using customer behavior.
+- Improve Insurance Agent Incentives to drive more customer through offline channel.
+- Improve claim forecasting with settlement analytics.
+
+# 📈 Business Impact
+
+The dashboard enables stakeholders to:
+
+- Monitor KPIs in real time
+- Identify high-performing markets
+- Improve customer targeting
+- Optimize policy portfolio
+- Strengthen sales strategy
+- Support data-driven decision making
+
+# ⚠️ Challenges Faced
+
+- Building an optimized star schema
+- Writing reusable DAX measures
+- Month-over-month calculations
+- Interactive navigation
+- Designing intuitive visuals
+- Performance optimization
+
+# 📚 Learnings
+
+- Power Query
+- Data Modeling
+- DAX
+- KPI Design
+- Dashboard Storytelling
+- Business Analytics
+- Interactive Reporting
+- Power BI Best Practices
+
+# 🛠️ Tech Stack
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+- PowerPoint
+- Git & GitHub
+
+# 🔮 Future Improvements
+
+- Row-Level Security
+- Mobile Layout
+- Forecasting
+- AI Visuals
+- Incremental Refresh
+- Power BI Service Alerts
+
+------------------------------------------------------------------------
+
+## ⭐ If you found this project useful, consider giving the repository a Star.
+
+Made with ❤️ using Power BI, DAX, Power Query, and Excel.
