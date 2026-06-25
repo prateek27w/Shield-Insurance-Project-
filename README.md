@@ -92,7 +92,7 @@ fact_settlements
 
 # ⭐ Data Model
 
-https://github.com/prateek27w/Shield-Insurance-Project-/blob/main/Sheild_Model.png
+![image alt](https://github.com/prateek27w/Shield-Insurance-Project-/blob/main/Sheild_Model.png)
 
 # 🧮 Important DAX Measures
 
