@@ -92,7 +92,7 @@ fact_settlements
 
 # ⭐ Data Model
 
-> **TODO:** Insert Data Model image here.
+Sheild_Model.png
 
 # 🧮 Important DAX Measures
 
