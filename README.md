@@ -5,6 +5,12 @@
 
 -----------------------------------------------------------------------
 
+### 📊 Live Dashboard
+
+👉 [View Interactive Dashboard](https://app.powerbi.com/view?r=YOUR_LINK)
+
+----
+
 # 📊 Project Overview
 
 Shield Insurance is a fictional insurance company used in the Codebasics
