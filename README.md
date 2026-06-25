@@ -125,16 +125,16 @@ fact_settlements
 
 ## 🏠 Home Page
 
-**TODO:** Insert Home Dashboard Screenshot
+![image alt](https://github.com/prateek27w/Shield-Insurance-Project-/blob/main/Sheild_Home.png)
 
 Description: Landing page providing navigation to all analytical
 sections.
 
 ------------------------------------------------------------------------
 
-## 📊 Overview Dashboard
+## 📊 General Analysis Dashboard
 
-**TODO:** Insert Overview Screenshot
+![image alt](https://github.com/prateek27w/Shield-Insurance-Project-/blob/main/Sheild_General.png)
 
 Highlights: - Revenue - Customers - DRG - DCG - City analysis - Monthly
 trends
@@ -143,7 +143,7 @@ trends
 
 ## 📈 Sales Mode Dashboard
 
-**TODO:** Insert Sales Dashboard Screenshot
+![image alt](https://github.com/prateek27w/Shield-Insurance-Project-/blob/main/Sheild_Sales.png)
 
 Highlights: - Offline vs Online - Revenue contribution - Customer
 contribution - Monthly trend
@@ -152,7 +152,7 @@ contribution - Monthly trend
 
 ## 👥 Age Group Dashboard
 
-**TODO:** Insert Age Dashboard Screenshot
+![image alt](https://github.com/prateek27w/Shield-Insurance-Project-/blob/main/Sheild_Age.png)
 
 Highlights: - Settlement analysis - Revenue by age - Customer
 distribution - Policy preference
